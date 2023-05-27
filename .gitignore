@@ -1,3 +1,8 @@
+# Custom ignores
+elms/*
+pdfs/*
+
+
 # Logs
 logs
 *.log
